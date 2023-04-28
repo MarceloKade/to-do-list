@@ -9,11 +9,13 @@ https://user-images.githubusercontent.com/98852912/235268203-6154b39e-70e6-4ffe-
 - [To-do List](#to-do-list)
   - [Presentation](#presentation)
   - [Objective](#objective)
+  - [Deploy](#deploy)
   - [Functionalities](#functionalities)
   - [Technologies](#technologies)
   - [What I Learned](#what-i-learned)
     - [Bootstrap](#bootstrap)
     - [JavaScript](#javascript)
+  - [Status](#status)
   
 ### Presentation
 
@@ -22,6 +24,10 @@ This project consists of a simple web application for task management. The inter
 ### Objective
 
 The objective of this project is to create a simple, yet functional to-do list web application using HTML, CSS, and JavaScript. The application should allow users to add, remove, and edit tasks, as well as mark them as complete. Additionally, the application should be responsive and work well on different screen sizes. The use of the Bootstrap framework is encouraged to facilitate the development of a user-friendly interface. Learn more at: [What I learned](#what-i-learned)
+
+### Deploy
+
+- Link : <a href="https://to-do-list-bootstrap.netlify.app/" target="_blank">To-do List</a>
 
 ### Functionalities
 
@@ -58,3 +64,7 @@ The objective of this project is to create a simple, yet functional to-do list w
 - By analyzing the code, I discovered how to manipulate the DOM, respond to user events, and make HTTP requests using JavaScript.
 
 - I also learned how to use third-party libraries like jQuery to simplify and streamline my code. Overall, I realized that JavaScript is an essential tool for modern web development and has endless possibilities for enhancing the user experience.
+
+### Status
+
+- Completed: [![Netlify Status](https://api.netlify.com/api/v1/badges/5433c841-e738-419e-912f-d93faeac3678/deploy-status)](https://app.netlify.com/sites/to-do-list-bootstrap/deploys)
